@@ -93,7 +93,6 @@ Confusion matrix visualization provides a clear understanding of the model's per
    ``` bash
    jupyter notebook credit_card_fraud_detection.ipynb
 
-
 ## Dependencies
 - Python 3.x
 - Pandas
